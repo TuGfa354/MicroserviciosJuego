@@ -1,0 +1,8 @@
+com\nebrija\microserviciosjuego\dao\implDao\DaoPuntuacionImpl.class
+com\nebrija\microserviciosjuego\repository\PuntuacionRepository.class
+com\nebrija\microserviciosjuego\service\implService\PuntuacionServiceImpl.class
+com\nebrija\microserviciosjuego\model\Puntuacion.class
+com\nebrija\microserviciosjuego\dao\DaoPuntuacion.class
+com\nebrija\microserviciosjuego\controller\PuntuacionController.class
+com\nebrija\microserviciosjuego\service\PuntuacionService.class
+com\nebrija\microserviciosjuego\MicroserviciosJuegoApplication.class
